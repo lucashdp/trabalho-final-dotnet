@@ -6,9 +6,9 @@ Disciplina de Arquitetura de Software na Plataforma .Net
 
 ## Componentes do grupo
 
-Cleber Amaral https://github.com/cgtamaral
-Lucas Duarte https://github.com/lucashdp
-Prince Sanis https://github.com/princesanis
+- Cleber Amaral https://github.com/cgtamaral
+- Lucas Duarte https://github.com/lucashdp
+- Prince Sanis https://github.com/princesanis
 
 ## Sobre o projeto
 
