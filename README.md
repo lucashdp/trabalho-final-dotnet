@@ -23,4 +23,4 @@ Vai ter outro WCF que vai ficar lendo a fila e gravando em algum BD (pode ser qu
 
 O modelo a seguir apresenta visualmente a forma de comunicão e depencias entres os componentes:
 
-![alt text](https://github.com/cgtamaral/trabalho-final-dotnet/DiagramaComponentesComunicacao.jpeg)
+![alt text](https://github.com/cgtamaral/trabalho-final-dotnet/blob/master/DiagramaComponentesComunicacao.jpg)
