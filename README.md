@@ -12,10 +12,15 @@ Disciplina de Arquitetura de Software na Plataforma .Net
 
 ## Sobre o projeto
 
-Este trabalho consistiu na construção de uma aplicação capaz de a comunicação entre camadas utilizando .NET. 
+Este trabalho consistiu na construção de uma aplicação capaz de realizar comunicação entre camadas utilizando .NET. 
 A entradas de dados são realizadas via uma Web Api e Web Services. Os métodos recebem uma string como parâmetro e “passa para as outras camadas”. 
 Utilizando Httpclient ou RestSharp será realizado uma chamada (post ou get) para o WCF (rest). 
 O WCF vai colocar uma mensagem no MSMQ. 
 Vai ter outro WCF que vai ficar lendo a fila e gravando em algum BD (pode ser qualquer BD).
 
 
+### Visão arquitetural do sistema
+
+O modelo a seguir apresenta visualmente a forma de comunicão e depencias entres os componentes:
+
+![alt text](https://github.com/cgtamaral/trabalho-final-dotnet/Comunicação entre camadas.jpeg)
